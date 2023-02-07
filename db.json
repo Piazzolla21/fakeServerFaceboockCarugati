@@ -2,13 +2,13 @@
   "post" : [
     {
       "autore":"ciao",
-      "descrizione":"",
-      "miPiace" : 0,
+      "descrizione":"masd",
+      "miPiace" : 0
     },
-     {
+    {
       "autore":"ciao",
-      "descrizione":"",
-      "miPiace" : 0,
+      "descrizione":"sadad",
+      "miPiace" : 0
     }
-    ]
+  ]
 }
