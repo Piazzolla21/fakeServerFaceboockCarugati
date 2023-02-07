@@ -5,5 +5,10 @@
       "descrizione":"",
       "miPiace" : 0,
     },
-    ],
+     {
+      "autore":"ciao",
+      "descrizione":"",
+      "miPiace" : 0,
+    }
+    ]
 }
